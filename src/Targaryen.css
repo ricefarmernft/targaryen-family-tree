@@ -11,35 +11,18 @@ body {
     align-items: center;
 }
 
-.tree {
-    text-align: center;
-    width: 100vh;
-    height: auto;
+svg.tommy .node.male>rect {
+    fill: blue;
+}  
+svg.tommy .node.Male>rect {
+    fill: blue;
+}  
+svg.tommy .node.female>rect {
+    fill: red;
 }
-
-.tree ul{
-    padding-top: 20px;
-    position: relative;
-    transition: .5s;
+#tree>svg {
+    background-color: #3e3c3c;
 }
-
-.tree li{
-    display: inline-table;
-    text-align: center;
-    list-style-type:none ;
-    position: relative;
-    padding: 10px;
-    transition: .5s;
-    border: 1px solid black;
-    margin: 10px;
+h1 {
+    color: #aa9aaa;
 }
-
-/* .tree li:before, .tree li:after {
-    content: '';
-    position: absolute;
-    top: 0;
-    right: 50%;
-    border-top: 1px solid black;
-    width: 51%;
-    height: 10px;
-} */
