@@ -5,16 +5,19 @@
 }
 
 body {
-    height: 100vh;
-    background-color: antiquewhite;
+    height: 100%;
+    width: 100%;
+    background-color: #c8c5c1;
     display: grid;
     align-items: center;
 }
 
+#tree {
+    min-height: 90vh;
+    overflow: visible;
+}
+
 svg.tommy .node.male>rect {
-    fill: blue;
-}  
-svg.tommy .node.Male>rect {
     fill: blue;
 }  
 svg.tommy .node.female>rect {
@@ -23,6 +26,27 @@ svg.tommy .node.female>rect {
 #tree>svg {
     background-color: #3e3c3c;
 }
-h1 {
-    color: #aa9aaa;
+.header {
+    float: left;
+    width: 33.33%;
+    height: 10vh;
+}
+.title {
+    color: #000000;
+    text-align: center;
+}
+
+.logos {
+    text-align: end;
+    padding-right: 1%;
+    padding-top: 1%;
+}
+.tlogo {
+    height: 1.7rem;
+    padding-left: .7rem;
+
+}
+
+.dragon-icon {
+    fill: white;
 }
