@@ -840,6 +840,7 @@ export const data = [
     mid: null,
     pids: [51],
     sigil: velaryonSigil,
+    img: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/35984d20-35e4-4767-aa6e-5be739dde8ea/dcc7rp2-d7b78e7c-788f-4759-9333-f26b33df3b98.jpg/v1/fill/w_1024,h_1536,q_75,strp/laenor_velaryon__game_of_thrones__by_manre_art_dcc7rp2-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTUzNiIsInBhdGgiOiJcL2ZcLzM1OTg0ZDIwLTM1ZTQtNDc2Ny1hYTZlLTViZTczOWRkZThlYVwvZGNjN3JwMi1kN2I3OGU3Yy03ODhmLTQ3NTktOTMzMy1mMjZiMzNkZjNiOTguanBnIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YI3riI3D6Lws_w5_5-Df2009cpxUmjRKak5InWOgHUQ"
   },
   {
     id: 55,

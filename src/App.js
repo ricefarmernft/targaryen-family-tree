@@ -1,4 +1,3 @@
-import "./App.css";
 import Targaryen from "./Targaryen";
 
 function App() {
