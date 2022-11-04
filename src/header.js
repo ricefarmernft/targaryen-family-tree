@@ -12,13 +12,13 @@ export default function Header() {
         <p>From Aegon I to the Dance of the Dragons</p>
     </div>
     <div className="header logos">
-    <a className="" target="_blank" href="https://awoiaf.westeros.org/index.php/House_Targaryen"
+    <a rel="noreferrer" target="_blank" href="https://awoiaf.westeros.org/index.php/House_Targaryen"
         ><img className="tlogo" src={img1} alt=""
       /></a>
-    <a className="" target="_blank" href="https://twitter.com/RiceFarmerNFT"
+    <a rel="noreferrer" target="_blank" href="https://twitter.com/RiceFarmerNFT"
         ><img className="tlogo" src={img} alt=""
       /></a>
-    <a className="" target="_blank" href="https://github.com/ricefarmernft"
+    <a rel="noreferrer" target="_blank" href="https://github.com/ricefarmernft"
         ><img className="tlogo" src={img2} alt=""
       /></a>
     </div>
