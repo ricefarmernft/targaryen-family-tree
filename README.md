@@ -5,6 +5,8 @@
 This is an interactive webpage featuring the Targaryen Family Tree from the reign of Aegon the Conqueror to the Dance of the Dragons. 
 View the project at: https://targaryen-family-tree.vercel.app/
 
+Use desktop for best viewing experience
+
 Built using:
 - React.js
 - Balkan FamilyTreeJS library
